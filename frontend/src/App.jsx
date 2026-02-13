@@ -1,10 +1,10 @@
-import React from 'react'
+import NavBar from './components/NavBar'
 
 const App = () => {
   return (
-    <div>
-      WE HAVE TO CREATE A TICKET BOOKING LAYOUT.
-    </div>
+    
+    <NavBar></NavBar>
+  
   )
 }
 
