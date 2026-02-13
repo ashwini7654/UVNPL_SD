@@ -1,9 +1,10 @@
 import React from 'react'
+import Footer from './components/layouts/Footer'
 
 const App = () => {
   return (
     <div>
-      WE HAVE TO CREATE A TICKET BOOKING LAYOUT.
+      <Footer />
     </div>
   )
 }
